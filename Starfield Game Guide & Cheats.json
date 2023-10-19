@@ -15,9 +15,9 @@
 "LINK_REDIRECT" : "https://play.google.com/store/apps/developer?id=devname",
 
 // main ads ke backup ads 
-"MODE_BACKUP_ADS" : false,
-"MODE_NO_ADS" : true,
-"MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : true,
+"MODE_BACKUP_ADS" : true,
+"MODE_NO_ADS" : false,
+"MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : false,
 
 //     mode pengaturan iklan
 //     Mode ADMOB       Admob backup Unity Backup Startapp
@@ -25,9 +25,9 @@
 //     Mode UNITY       Unity backup Startapp
 //     Mode APPLOVIN    Applovin backup Unity Backup Startapp
 
-"PENGATURAN_IKLAN_BANNER" : "ADMOB",
-"PENGATURAN_IKLAN_INTER" : "ADMOB",
-"PENGATURAN_IKLAN_NATIVE" : "ADMOB",
+"PENGATURAN_IKLAN_BANNER" : "FAN",
+"PENGATURAN_IKLAN_INTER" : "FAN",
+"PENGATURAN_IKLAN_NATIVE" : "FAN",
 
 "INTER_COUNT" : "2",
 
@@ -52,9 +52,9 @@
 "HPK_ADMOB4" : "Telkomsel",
 "HPK_ADMOB5" : "Donasi",
 
-"FAN_BANNER" : "YOUR_PLACEMENT_ID",
-"FAN_INTER" : "YOUR_PLACEMENT_ID",
-"FAN_NATIVE" : "YOUR_PLACEMENT_ID",
+"FAN_BANNER" : "748086333745502_748086387078830",
+"FAN_INTER" : "748086333745502_748086380412164",
+"FAN_NATIVE" : "748086333745502_748086383745497",
 
 "UNITY_BANNER" : "banner",
 "UNITY_INTERSTITIAL" : "inter",
